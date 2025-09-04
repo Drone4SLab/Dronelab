@@ -3,7 +3,6 @@ import { Routes, Route, useLocation } from 'react-router-dom';
 import Header from './Components/Header';
 
 // Import from Pages folder
-import Home from './Pages/Home';
 import Footer from "./Components/Footer";
 import AmericanExpress from './Pages/AmericanExpress';
 import About from './Pages/About';
