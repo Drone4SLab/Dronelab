@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dronelab/static/css/main.7ed3bdb4.css",
-    "main.js": "/Dronelab/static/js/main.fe5de96d.js",
+    "main.js": "/Dronelab/static/js/main.d99bf490.js",
     "index.html": "/Dronelab/index.html",
     "main.7ed3bdb4.css.map": "/Dronelab/static/css/main.7ed3bdb4.css.map",
-    "main.fe5de96d.js.map": "/Dronelab/static/js/main.fe5de96d.js.map"
+    "main.d99bf490.js.map": "/Dronelab/static/js/main.d99bf490.js.map"
   },
   "entrypoints": [
     "static/css/main.7ed3bdb4.css",
-    "static/js/main.fe5de96d.js"
+    "static/js/main.d99bf490.js"
   ]
 }
